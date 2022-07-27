@@ -132,9 +132,7 @@
   <ItemGroup>
     <ClCompile Include="ds_main.cpp" />
     <ClCompile Include="ds_stack.cpp" />
-    <ClCompile Include="ds_queue.cpp" />
-    <ClCompile Include="ds_red_black_tree.cpp" />
-    <ClCompile Include="ds_heap.cpp" />
+    <ClCompile Include="ds_stack.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
